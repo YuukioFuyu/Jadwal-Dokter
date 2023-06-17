@@ -1,0 +1,16 @@
+<?php
+
+/*
+INFORMASI PENTING!
+Jadwal Dokter ini hanya untuk di Tampilkan melalui media LCD, Motitor, TV, ataupun Video Tron.
+TIDAK UNTUK DI UPLOAD DI HOSTING
+*/
+
+
+$header['judul'] = 'Jadwal Dokter';
+$running_text['nama'] = 'JADWAL DOKTER DINAMIS UNTUK RUMAH SAKIT DAN KLINIK';
+$running_text['alamat'] = 'By Yuukio Fuyu';
+$video_slide['nama'] = 'video'; // Nama Awalah Video, Format video harus .mp4 dan dengan Contoh nama: profil1, profil2, profil3
+$video_slide['waktu'] = '300'; // Waktu beralih ke Slide Show (Dalam Detik)
+
+?>
