@@ -11,8 +11,11 @@
 7). Edit Logo Jadwal Dokter dengan menimpa Gambar logo.png pada direktori assets <br>
 8). Selesai, Jadwal Dokter siap di Tampilkan di Layar Ruang Tunggu atau Lobi <br>
  <br>
+ <b>Cara Mengganti Slideshow Video:</b> <br>
+1). Untuk Mengganti Video Cukup Timpa File Video didalam Direktori assets <br>
+2). Untuk Menambah Jumlah Slide Video Buka system/controls/Video.php dan cari Line 17, $max = 1; (Ubah Value ini sesuai kebutuhan) <br>
 <b>Tampilan Jadwal Dokter:</b> <br />
-
+<br />
 ![Jadwal Dokter](https://github.com/YuukioFuyu/Jadwal-Dokter/assets/79379934/e266895f-409e-4edf-90a6-33ae71356f2d)
 
 <br />
